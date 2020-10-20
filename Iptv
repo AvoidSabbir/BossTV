@@ -79,6 +79,8 @@ http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
 http://43.230.123.21:8080/live/sony-pix.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Marua TV",39.Zee Cinema HD [Marua TV]
 http://43.230.123.21:8080/live/zee-cinema.m3u8
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="Marua TV",51.Bein Sports HD [Marua TV]
+https://akamai2-me.cdn.booyah.live/hls/113137/27902332.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="Marua TV",40.Star Plus HD [Marua TV]
 http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Marua TV",41.Zee Bangla HD [Marua TV]
