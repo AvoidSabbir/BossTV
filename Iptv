@@ -43,6 +43,8 @@ http://103.205.133.50/hls/atnbangla.m3u8
 http://103.205.133.50/hls/atnnews.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Marua TV",21.MOHONA TV
 http://103.205.133.50/hls/mohonatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",TBN 24
+http://fingerme.dg21bd.com/TBN24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Nandan TV
 http://nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R90Dt54/Probashi-Bangla.jpg" group-title="Marua TV",22.Probashi Bangla
