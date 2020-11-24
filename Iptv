@@ -114,7 +114,7 @@ https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Marua TV",51.Animal Planet HD
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="Marua TV",52.Bein Sports HD 
-https://akamai2-me.cdn.booyah.live/hls/113138/31711316.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113138/32748897.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-1-logo-300x300.jpg" group-title="Marua TV",53.Star Sports 1
 http://103.102.136.106:8080/cmcltv/livesports-2.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-1-logo-300x300.jpg" group-title="Marua TV",53.Star Sports 2
@@ -250,12 +250,18 @@ https://rhridoy136.shortcm.li/makkahlive.m3u8
 https://rhridoy136.shortcm.li/madinalive.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Islamic",Peace TV Bangla
 https://rhridoy136.shortcm.li/peacetvbangla.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="India",Sony Aath xSD
+http://10.16.100.204/hls/sony_aath.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="India",Sony Aath
 https://rhridoy136.shortcm.li/sonyaath.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="India",Star Jalsha xSD
+http://10.16.100.204/hls/star_jalsha.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="India",Star Jalsha
 https://rhridoy136.shortcm.li/starjalsha.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="India",Star Jalsha HD
 https://rhridoy136.shortcm.li/starjalshahd.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="India",Sangeet Bangla
+http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="India",Zee Bangla
 https://rhridoy136.shortcm.li/zeebangla.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="India",Zee Bangla HD
@@ -266,6 +272,8 @@ https://rhridoy136.shortcm.li/starjalshamovies.m3u8
 https://rhridoy136.shortcm.li/starjalshamovieshd.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="India",Zee Bangla Cinema
 https://rhridoy136.shortcm.li/zeebanglacinema.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="India",Star Plus xSD
+http://10.16.100.204/hls/star_plus.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="India",Star Plus
 https://rhridoy136.shortcm.li/starplus.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="India",Star Plus HD
@@ -278,6 +286,8 @@ https://rhridoy136.shortcm.li/stargold.m3u8
 https://rhridoy136.shortcm.li/stargoldhd.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="India",Star Gold 2
 https://rhridoy136.shortcm.li/stargold2.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="India",Colors xSD
+http://10.16.100.201/hindi/colorsin.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="India",Colors
 https://rhridoy136.shortcm.li/colors.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="India",Colors HD
@@ -288,6 +298,10 @@ https://rhridoy136.shortcm.li/colorsbangla.m3u8
 https://rhridoy136.shortcm.li/colorsbanglahd.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="India",Colors Rishtey
 https://rhridoy136.shortcm.li/colorsrishtey.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="India",& Picture
+http://10.16.100.204/hls/&_pic.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="India",WOW Chinema
+http://10.16.100.201/hindi/wow_cinema.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="English",Comedy Central
 https://rhridoy136.shortcm.li/comedycentral.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="English",National Geographic
@@ -328,10 +342,12 @@ https://rhridoy136.shortcm.li/sonysix.m3u8
 https://rhridoy136.shortcm.li/sonyten1.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Sports",Sony Ten 2
 https://rhridoy136.shortcm.li/sonyten2.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="Sports",Sony Ten 3
+http://10.16.100.207:8082/sports/Ten-3_cm.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Sports",Star Sports 1 HD
 https://rhridoy136.shortcm.li/starsports1hd.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Sports",Star Sports 2 HD
-https://rhridoy136.shortcm.li/starsports2hd.m3u8
+http://10.16.100.207:8082/sports/starsports_select1.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Sports",Star Sports Select 1 HD
 https://rhridoy136.shortcm.li/starsportsselect1hd.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Sports",Star Sports Select 2 HD
